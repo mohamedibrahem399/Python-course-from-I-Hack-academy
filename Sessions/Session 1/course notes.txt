@@ -1,0 +1,70 @@
+we can write python in any program of them :-
+
+1- idle ((starrt menu & ctrl+n & write & fs 
+
+2-text editor (subline) ((write &save & ctrl+shift +p & ctrl+s )
+
+3- cmd
+----------------------------------------------
+string " " or ' '
+/ to write two strings in the same ()
++ to make the 2 things be together but they must be the same type
+
+--------------------------------------------
+
+data :-
+variables:-
+1- complex 
+
+
+2- primitive:-
+
+2/1-number :- int , float 
+2/2- string 
+-----------------
+notes we can't type + btween two things differnt in their types
+-------------
+we can make comment with #
+or to sellect the line that u want and press ctrl + / 
+-----------------------------------
+\n =new line
+\t= space
+ btween two strings inside ""
+----------------------
+print (name.upper()) make all the string capital
+.lower() == make all the txt is small
+.isupper() == check that all the txt is capital
+-------------------------
+we can make power operation in math with **
+print min(we can write the two numbers or the two variables that we saved the numbers here )== to see what is smaller
+and max to see what is the bigger
+-------------------
+when we open python shell 
+press ctel +n to write your code then you can run it with 
+
+int input (the message that u want to write )
+------------------------
+to write array we can write it like :-
+name =[1,2,3,4,5]
+and we can write any thing inside it 
+we can call any value inside it with 
+print (name[0])
+as 0 is the number of the object inside the array
+there is a funcution that we can use with arrays that is 
+name.reverse()
+this function can reverse the valuse inside the array
+there is '
+name.sort()
+name.append(any thing that u want to add )
+this function add what u entered inside the array but in the end of it 
+name.clear()== remove all the variables
+name.remove()== remove the variable that u enterd its number between the ()
+name.insert(index, object)==put the value that u want in the index number that u want 
+name.count()== see what is doubled or what is 
+name.pop(the number of any index value ) == delete the value that u want by the index of the value
+
+
+--------------------------------
+
+
+-----------------------------------
