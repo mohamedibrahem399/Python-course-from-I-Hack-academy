@@ -1,0 +1,2 @@
+insite:admin.php
+get hup
