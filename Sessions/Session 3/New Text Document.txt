@@ -1,0 +1,82 @@
+
+ifconfig wlan0 down 
+ifconfig wlan0 hw ether 00:
+ifconfig wlan0 up
+
+
+---------------------------
+
+
+import subprocess
+subprocess.call("",shell=true)
+subprocess.call("",shell=true)
+subprocess.call("",shell=true)
+--------------------------
+
+subprocess = is a liberary that can open any thing in windows or linux or any other system 
+.call ( we put here the orders that we want to do it )
+shell=true :- that
+------------------------
+leafpad
+vscodium 
+
+and we save it as py
+ex:-
+code.py
+--------------------------------
+we can open it with 
+sudo python name-of-file.py
+--------------------
+
+sudo python name-of-file.py -i wlan0 -m 00:11:22:33:44:55
+--------------
+interface="wlan0"
+
+arguments=[-i,-m] 
+
+options=["wlan0","00:11:"]
+------------------------
+
+search for  
+option_parse
+
+optparse
+
+scapy network tool
+packet fourging 
+
+broadcast make 
+ff:ff:ff:ff:ff
+
+
+---------------------
+install virutualbox-guest-x11
+------------------------------------
+route -n
+to know the range of ip
+-------------------
+import scapy.all as scapy
+
+----------------------------
+parser.add_option()
+-------------------------------
+packet fourging 
+-------------
+srp 
+send recieve protocol
+---------------------
+timeout=any number
+--------------------------
+\t = tap  
+\n = new line
+
+\r = remove the backward words
+--------------------
+ether
+data-link layer 
+
+task
+ip scanner  with an range ip 
+
+
+
