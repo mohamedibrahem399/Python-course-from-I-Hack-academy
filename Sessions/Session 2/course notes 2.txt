@@ -1,0 +1,57 @@
+functional programming :-
+
+1st ex :-
+
+import random
+
+def r(x,y):
+    return random.randint(x,y)
+    r(0,9)
+ -----------------
+ascii code 
+to know what is this character ascii code 
+we can write it 
+print (ord('here type the string or the thing '))
+---------------------
+to convert from character to ascii 
+ord ()
+to convert from ascii to characters 
+chr()
+to target the characters only
+
+------------------------------
+we can encript any message with the knowlage of the ascii code of this characters and make some maths to change it to another character
+-------------
+97+26
+-------------
+mcsa course
+--------------
+clustering
+classifications
+result = w1(input1)+w2(input2)+bies
+---------------------------------------------------------
+class look like data type
+
+def talk(self):
+to make it easy to call it 
+like human.talk
+constructor
+-------------------------------------
+class ****** ():
+	def __init__(self,cash):
+		self.tea=tea
+	def  get_cash():
+		any code
+-------------------------------------------------------
+class studint 
+with age and name and say hi
+onlyyyyyyyyy
+------------------------------
+task
+class human
+name age address 
+he is walking 
+constructor 
+functions 
+like take or walk 
+
