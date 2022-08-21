@@ -1,0 +1,28 @@
+web scraping 
+selenium
+basic html templet
+<h1> heading 1
+<img src=""/>
+search bar name = q standerd to some websites
+right click + inspect
+stack overflow
+pyqutifive
+
+
+___________________
+quotes to script
+___________________________
+Xpath in html
+
+xpath("//tag[@class=""]")
+
+__________________________________________________________
+
+os.getcwd()
+os.path.splittxt()
+chrome selenium driver
+any website/robots.txt
+_________________-
+tasks
+7aga betnazel sowar 
+7aga betnazel videos mn el youtube 
