@@ -1,0 +1,30 @@
+pip install pyinstaller
+pyautogui
+
+in 3alamet el toolbar +x
+
+------------------------------------- 
+
+import  shutil
+
+shutil.rmtree(file)
+------------------------------------------
+
+1- open powershelll admin
+2- we move the current place
+3- pyinstaller + (name of the file) --onefile --noconsole
+
+------------------------------------------------
+ p.size
+------------------------------
+pyAesCrypt
+re
+regular expressions
+---------------------
+search in regexr.com
+cheatsheet
+.+\.
+\w
+
+\d degit 
+\w 7arf aw rakam

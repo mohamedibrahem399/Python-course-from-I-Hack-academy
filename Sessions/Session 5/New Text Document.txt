@@ -1,0 +1,12 @@
+os liberary
+
+read mode just read 
+
+append mode : it writes in it 
+
+write mode : overwrite  or create a new one 
+
+pyAescrypto
+ 
+
+py installer

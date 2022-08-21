@@ -1,0 +1,56 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+KeyboardInterrupt
+>>> import os
+>>> os.listdir()
+['DLLs', 'Doc', 'include', 'Lib', 'libs', 'LICENSE.txt', 'NEWS.txt', 'python.exe', 'python3.dll', 'python37.dll', 'pythonw.exe', 'Scripts', 'tcl', 'Tools', 'vcruntime140.dll']
+>>> os.getcwd()
+'C:\\Users\\Mohamed ibrahem\\AppData\\Local\\Programs\\Python\\Python37'
+>>> os.chdir('..')
+>>> os.get cwd
+SyntaxError: invalid syntax
+>>> os.getcwd
+<built-in function getcwd>
+>>> 
+KeyboardInterrupt
+>>> os.getcwd
+<built-in function getcwd>
+>>> os.getcwd()
+'C:\\Users\\Mohamed ibrahem\\AppData\\Local\\Programs\\Python'
+>>> os.cd Desktop
+SyntaxError: invalid syntax
+>>> os.chdir('Desktop/data-to-miss')
+Traceback (most recent call last):
+  File "<pyshell#9>", line 1, in <module>
+    os.chdir('Desktop/data-to-miss')
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'Desktop/data-to-miss'
+>>> os.chdir('Desktop/data-to-miss-/')
+Traceback (most recent call last):
+  File "<pyshell#10>", line 1, in <module>
+    os.chdir('Desktop/data-to-miss-/')
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'Desktop/data-to-miss-/'
+>>> os.getcwd()
+'C:\\Users\\Mohamed ibrahem\\AppData\\Local\\Programs\\Python'
+>>> os.chdir('../../../..')
+>>> os.getcwd()
+'C:\\Users\\Mohamed ibrahem'
+>>> os.chdir('Desktop/hey/')
+Traceback (most recent call last):
+  File "<pyshell#14>", line 1, in <module>
+    os.chdir('Desktop/hey/')
+FileNotFoundError: [WinError 2] The system cannot find the file specified: 'Desktop/hey/'
+>>> os.chdir('Desktop/hard')
+Traceback (most recent call last):
+  File "<pyshell#15>", line 1, in <module>
+    os.chdir('Desktop/hard')
+FileNotFoundError: [WinError 2] The system cannot find the file specified: 'Desktop/hard'
+>>> os.chdir('Desktop')
+>>> os.mkdir('hard')
+>>> os.chdir('Desktop')
+Traceback (most recent call last):
+  File "<pyshell#18>", line 1, in <module>
+    os.chdir('Desktop')
+FileNotFoundError: [WinError 2] The system cannot find the file specified: 'Desktop'
+>>> os.chdir('hard')
+>>> 
