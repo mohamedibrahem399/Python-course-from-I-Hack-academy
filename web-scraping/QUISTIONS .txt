@@ -1,0 +1,7 @@
+1ST :- the difference between optparse and argparse
+
+2nd :- in optparse when we define some options how we can put argumenrs to their 
+
+3rd :- how can we use the option and attach it with another variabe or a value 
+
+4th :-
