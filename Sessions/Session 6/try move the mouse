@@ -1,0 +1,6 @@
+import pyautogui as p
+
+p.moveTo(200,200,duration=3)
+
+p.typewrite()
+
